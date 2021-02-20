@@ -1,2 +1,2 @@
 # Jogo-10
-Testativa de importaçaõ 2
+Tentativa de importaçaõ 2
